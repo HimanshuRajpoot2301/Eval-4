@@ -1,0 +1,10 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:33:14 +0000] \"POST /books HTTP/1.1\" 500 66 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:33:14.524Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:36:05 +0000] \"POST /books HTTP/1.1\" 201 89 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:36:05.254Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:37:32 +0000] \"GET /books/6694fb9511c8d34a4803ab2f HTTP/1.1\" 200 89 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:37:32.827Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:39:48 +0000] \"POST /customers HTTP/1.1\" 201 151 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:39:48.735Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:43:19 +0000] \"POST /books HTTP/1.1\" 500 111 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:43:19.174Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:45:19 +0000] \"POST /books HTTP/1.1\" 500 111 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:45:19.181Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:46:57 +0000] \"POST /books HTTP/1.1\" 500 111 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:46:57.935Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:48:26 +0000] \"POST /books HTTP/1.1\" 201 115 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:48:26.698Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:48:56 +0000] \"GET /books/6694fe7adad87df5a8fa60be HTTP/1.1\" 200 115 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:48:56.217Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [15/Jul/2024:10:51:23 +0000] \"POST /reviews HTTP/1.1\" 201 150 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","timestamp":"2024-07-15T10:51:23.445Z"}

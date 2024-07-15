@@ -1,0 +1,35 @@
+{
+  "name": "online_bookstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cron": "^3.1.7",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.10.2",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.7.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.13.1"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "eslint": "^9.7.0",
+    "mocha": "^10.6.0"
+  }
+}
